@@ -16,10 +16,11 @@
 ### Connect with me:
 
 [<img align="left" alt="elmobark.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="mobark | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="mobark | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="mobark | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="mobark | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="mobark | Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/dev-dot-to.svg" />][dev.to]
 
 <br />
 
@@ -51,3 +52,4 @@
 [facebook]: https://facebook.com/mobark.k9
 [instagram]: https://instagram.com/mobark.k9
 [linkedin]: https://www.linkedin.com/in/mobark9
+[dev.to]:https://dev.to/mentor33
