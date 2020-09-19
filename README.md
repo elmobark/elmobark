@@ -1,10 +1,10 @@
-### Hi there, I'm Elmobak - aka [Mentor][website] 👋
+### Hi there, I'm Elmobak - aka [Mentor][website] <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 ![GitHub followers](https://img.shields.io/github/followers/mentor33?style=social)  ![Twitter Follow](https://img.shields.io/twitter/follow/mobark_k9?style=social)
 
 ## I'm a Gamer, Developer, and Teacher!
 
-- 🔭 I’m currently working on a [grow up my website][website]!
+- 🔭 I’m currently working on a [next boom project][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -58,6 +58,7 @@
 
 
 [website]: https://elmobark.com
+[boom]: https://elmobark.com/boom
 [twitter]: https://twitter.com/mobark_k9
 [facebook]: https://facebook.com/mobark.k9
 [instagram]: https://instagram.com/mobark.k9
