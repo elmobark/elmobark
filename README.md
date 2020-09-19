@@ -44,7 +44,7 @@
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
-
+### GitHub stats
 
  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mentor33&show_icons=true&hide_border=true" />
 
@@ -52,7 +52,15 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mentor33&hide=TeX&layout=compact)
 
+---
+
+### waka stats
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mentor33)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### StackoverFlow stats
+[![elmobark StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=7764401)](https://stackoverflow.com/users/7764401/elmobark)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mentor33)
 
