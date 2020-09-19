@@ -21,6 +21,7 @@
 [<img align="left" alt="mobark | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mobark | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="mobark | Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/dev-dot-to.svg" />][dev.to]
+[<img align="left" alt="mobark | Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/telegram.svg" />][telegram]
 
 <br />
 
@@ -61,3 +62,4 @@
 [instagram]: https://instagram.com/mobark.k9
 [linkedin]: https://www.linkedin.com/in/mobark9
 [dev.to]:https://dev.to/mentor33
+[telegram]: https://t.me/elmobark
