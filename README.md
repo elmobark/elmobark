@@ -42,6 +42,9 @@
 
 ### :zap: Recent Activity 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1](https://github.com/mississo/kotlinplay/pull/1) in [mississo/kotlinplay](https://github.com/mississo/kotlinplay)
+2. ❗️ Opened issue [#1](https://github.com/mississo/gitplay/issues/1) in [mississo/gitplay](https://github.com/mississo/gitplay)
+<!--END_SECTION:activity-->
 
 
  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mentor33&show_icons=true&hide_border=true" />
