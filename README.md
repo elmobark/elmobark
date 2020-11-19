@@ -43,8 +43,6 @@
 ### :zap: Recent Activity 
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
-### GitHub stats
 
  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mentor33&show_icons=true&hide_border=true" />
 
