@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on a [next boom project][boom]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: did i say i love gaming? yah i do that
 
 ### Spotify Playing 🎧
@@ -56,14 +56,14 @@
 ---
 
 ### waka stats
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mentor33)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=elmobark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### StackoverFlow stats
 [![elmobark StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=7764401)](https://stackoverflow.com/users/7764401/elmobark)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mentor33)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=elmobark)
 
 
 [website]: https://elmobark.com
