@@ -1,6 +1,6 @@
 ### Hi there, I'm Elmobak - aka [Mentor][website] <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-![GitHub followers](https://img.shields.io/github/followers/mentor33?style=social)  ![Twitter Follow](https://img.shields.io/twitter/follow/mobark_k9?style=social)
+![GitHub followers](https://img.shields.io/github/followers/elmobark?style=social)  ![Twitter Follow](https://img.shields.io/twitter/follow/mobark_k9?style=social)
 
 ## I'm a Gamer, Developer, and Teacher!
 
